@@ -12,7 +12,7 @@
     left: 0px;
     border-radius: 100%; }
     .ball-clip-rotate-pulse > div:first-child {
-      background: #fff;
+      background: white;
       height: 16px;
       width: 16px;
       top: 7px;
